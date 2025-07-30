@@ -4,6 +4,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaheer-zahid&show_icons=true&theme=react&hide_border=true" alt="Shaheer Zahid's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shaheer-zahid&theme=react&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## 🚀 About Me
 
 - Bachelors in Computer Science — **The University of Faisalabad (2021–2025)**  
@@ -24,6 +31,10 @@ Google Colab, VS Code, Firebase, Git, Vite, React
 
 **Core Domains**  
 Machine Learning, Deep Learning, Reinforcement Learning, AI Agents, Model Optimization
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,firebase,vite,html,css,js,github&theme=light" alt="Tech Stack Icons"/>
+</p>
 
 ---
 
@@ -66,10 +77,6 @@ A complete pipeline to classify sentiment of tweets:
 💻 [GitHub](https://github.com/Shaheer-zahid)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shaheer-zahid&theme=radical" alt="GitHub Streak"/>
-</p>
 
 <p align="center">
   <em>“Driven by purpose. Scaling intelligence, one model at a time.”</em>
