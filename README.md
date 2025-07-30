@@ -1,92 +1,78 @@
 # 👋 Hi, I'm **M. Shaheer Zahid**
 
-🎓 **Computer Science Graduate** | 🤖 AI/ML Practitioner | ⚙️ Model Optimization & Automation Enthusiast
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer-zahid&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
+🎓 **Computer Science Graduate** | 🤖 AI/ML Engineer | ⚙️ Model Optimization & Automation Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Bachelors in Computer Science — **The University of Faisalabad (2021–2025)**  
-  CGPA: **3.79 / 4.0**  
-- 🤖 Specialized in **Artificial Intelligence**, **Machine Learning**, and **Automation**
-- 🧠 Passionate about building intelligent, scalable systems using data-driven optimization
-- ⚡ Focused on Reinforcement Learning, Meta-Learning, and AI Agent systems
+- Bachelors in Computer Science — **The University of Faisalabad (2021–2025)**  
+  CGPA: **3.79 / 4.0**
+- Focused on building scalable AI systems through automation and optimization
+- Currently exploring intelligent agents and reinforcement-driven model tuning
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-**Languages & Libraries**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
-NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
+**Languages & Frameworks**  
+Python, Scikit-learn, TensorFlow, PyTorch, NumPy, Pandas  
+HTML, CSS (Tailwind, Bootstrap), JavaScript
 
 **Tools & Platforms**  
-Jupyter, Google Colab, PyCharm, VS Code
+Google Colab, VS Code, Firebase, Git, Vite, React
 
-**ML/AI Expertise**  
-Machine Learning, Deep Learning, Reinforcement Learning, Meta-Learning, Model Optimization, AI Agents
-
-**Frontend**  
-HTML, Tailwind CSS, Bootstrap, JavaScript
-
-**Other Tools**  
-Firebase, Firestore, Vite, Web Speech API, Git
+**Core Domains**  
+Machine Learning, Deep Learning, Reinforcement Learning, AI Agents, Model Optimization
 
 ---
 
-## 📁 Highlighted Projects
+## 📁 Featured Projects
 
-### 🧠 NeuroGen – Final Year Project
-A self-optimizing ML/DL model refinement system built using:
+### 🔬 NeuroGen – Final Year Project
+An AI-powered system for auto-selecting and optimizing ML/DL models using:
 - Model-Agnostic Meta-Learning (MAML)
 - Neural Architecture Search (NAS)
 - Bayesian Optimization
-- Reinforcement Learning Agent
+- Reinforcement Learning
 
-🔹 Automatically selects and tunes model pipelines based on dataset features  
-🔹 Outputs downloadable trained models with up to **95% accuracy**  
-🔹 Reduces human intervention by **60%** in experimentation workflows
-
----
-
-### 🗣️ Gold's Gym AI Assistant (Web Voice Bot)
-An AI voice agent embedded into a website to handle gym inquiries:
-- Developed with **React**, **Vite**, and **Tailwind CSS**
-- Used **Gemini 2.0 Flash**, **Web Speech API**, and **Firebase Firestore**
-- Collected user data (name, number) and stored it via real-time database
-
-🔹 Reduced manual effort by **40%**, increased lead registration performance
+⚡ Delivers downloadable trained models with up to **95% accuracy**  
+⚡ Reduces tuning effort by **60%**, enabling rapid experimentation
 
 ---
 
-### 📊 Twitter Sentiment Analysis
-Built an NLP sentiment classification pipeline:
-- Trained a **Logistic Regression** classifier on 1.6M tweets
-- Used custom feature cleaning and text embedding techniques
-- Achieved **81% validation accuracy**, exported model for reuse
+### 🎙️ Gold's Gym AI Assistant
+Real-time voice-enabled web assistant to automate gym inquiries:
+- Built with React, Tailwind CSS, Firebase, Gemini 2.0 Flash
+- Integrated Web Speech API for voice input/output
+- Captures user details and logs into Firestore
+
+⚡ Boosted lead capture and reduced manual engagement by **40%**
 
 ---
 
-## 📫 Get in Touch
+### 💬 Twitter Sentiment Analysis
+A complete pipeline to classify sentiment of tweets:
+- Trained Logistic Regression on 1.6M tweets
+- Cleaned and vectorized data with tokenization and embedding
+- Achieved **81% validation accuracy**, exported inference model
 
-[![Gmail](https://img.shields.io/badge/Email-shaheer139@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shaheer139@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaheer%20Zahid-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheer-zahid-027s)
-[![GitHub](https://img.shields.io/badge/GitHub-Shaheer--zahid-171515?style=flat-square&logo=github)](https://github.com/Shaheer-zahid)
+---
+
+## 📫 Contact
+
+📧 shaheer139@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/shaheer-zahid-027s)  
+💻 [GitHub](https://github.com/Shaheer-zahid)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaheer-zahid&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shaheer-zahid&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <em>“Driven by purpose. Defined by code. Scaling intelligence, one model at a time.”</em>
+  <em>“Driven by purpose. Scaling intelligence, one model at a time.”</em>
 </p>
 
 ---
